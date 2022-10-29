@@ -4277,6 +4277,9 @@ left: 19%;
 .footer__inner .footer__sns svg,
 .footer__inner .footer__sns .svg-sns
 {cursor: pointer;}
+.footer__inner .footer__sns .opa {
+  display: block;
+}
 .cl__inner{
   background-color: var(--color-p-green);
   padding: 0.8rem;
