@@ -37,6 +37,9 @@ img{width: 100%;}
 .hid{ overflow: hidden ;}
 .pcup{display: none;}
 h2.h2-f{margin-bottom: 45px;}
+object {
+  pointer-events: none;
+}
 @media (min-width: 1025px) {
   .pc_m{ max-width: 980px; margin: auto;}
   .sptab-none{display: none;}
@@ -4325,3 +4328,4 @@ left: 19%;
   .ipad-in{display: block;}
   .ipad-off{display: none;}
   }
+
